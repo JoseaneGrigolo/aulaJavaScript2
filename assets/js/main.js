@@ -92,3 +92,5 @@ box.innerHTML = `<a href="https://www.google.com/" class="image featured"><img s
 /* Elementos 4  */
 let acessaPai = document.querySelector('.social');
 acessaPai.removeChild(acessaPai.childNodes[7]);
+
+/* main atualizado */
